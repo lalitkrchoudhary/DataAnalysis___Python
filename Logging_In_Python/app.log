@@ -1,10 +1,6 @@
-2025-04-05 01:26:20-root-DEBUGThis a debug message
-2025-04-05 01:26:20-root-INFOThis is a info message
-2025-04-05 01:26:20-root-WARNINGThis is a warning message
-2025-04-05 01:26:20-root-ERRORThis is a error message
-2025-04-05 01:26:20-root-CRITICALThis is an critical message
-2025-04-05 01:26:27-root-DEBUGThis a debug message
-2025-04-05 01:26:27-root-INFOThis is a info message
-2025-04-05 01:26:27-root-WARNINGThis is a warning message
-2025-04-05 01:26:27-root-ERRORThis is a error message
-2025-04-05 01:26:27-root-CRITICALThis is an critical message
+2025-04-05 01:41:27-module1-DEBUGThis is a debug message from module1
+2025-04-05 01:41:27-module2-ERRORThis is a error message with module2
+2025-04-05 01:42:01-module1-DEBUGThis is a debug message from module1
+2025-04-05 01:42:01-module2-ERRORThis is a error message with module2
+2025-04-05 01:43:04-module1-DEBUGThis is a debug message from module1
+2025-04-05 01:43:04-module2-ERRORThis is a error message with module2
