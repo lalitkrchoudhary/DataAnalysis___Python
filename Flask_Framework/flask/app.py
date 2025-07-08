@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, render_template
 
 '''
 It create an instance of the Flask class,
@@ -14,7 +14,7 @@ def welcome():
 
 @app.route("/index")
 def indexPage():
-    return "welcome to the index page"
+    return render_template('index.html') #Render_template will search index page into templates folder
 
 
 if __name__=="__main__":
